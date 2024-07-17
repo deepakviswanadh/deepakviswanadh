@@ -20,6 +20,12 @@ Hello there 👋!
 
 📄 &nbsp; You can check my [LinkedIn](https://www.linkedin.com/in/deepakviswanadha/) for more details about my skills, work experience.
 
+# 📫 &nbsp; How to reach me:
+
+
+<a href="https://www.linkedin.com/in/deepakviswanadha/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="mailto:deepak16c@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+
 
 # 🛠 &nbsp;Tech Stack
 
@@ -107,12 +113,3 @@ Hello there 👋!
 ![ECS](https://img.shields.io/badge/ECS-232F3E?style=for-the-badge&logo=amazon-ecs&logoColor=white)&nbsp;
 ![Cloud Watch](https://img.shields.io/badge/Cloud%20Watch-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
 ![IAM](https://img.shields.io/badge/IAM-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
-
-
-
-
-### 📫 &nbsp; How to reach me:
-
-
-<a href="https://www.linkedin.com/in/deepakviswanadha/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="mailto:deepak16c@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
