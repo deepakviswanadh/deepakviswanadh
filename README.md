@@ -45,20 +45,14 @@
 ![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black)&nbsp;
 ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)&nbsp;
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 
 ## Back-end Technologies:
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)&nbsp;
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)&nbsp;
-![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)&nbsp;
 ![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)&nbsp;
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)&nbsp;
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)&nbsp;
-![Resilience4j](https://img.shields.io/badge/Resilience4j-4AC0C5?style=for-the-badge&logo=resilience4j&logoColor=white)&nbsp;
 ![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![ExpressJS](https://img.shields.io/badge/ExpressJS-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
@@ -85,22 +79,16 @@
 ![Zipkin](https://img.shields.io/badge/Zipkin-000000?style=for-the-badge&logo=zipkin&logoColor=white)&nbsp;
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)&nbsp;
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)&nbsp;
-![Rancher](https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white)&nbsp;
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)&nbsp;
 ![GCS](https://img.shields.io/badge/GCS-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 
 
 ## AWS:
 
 ![AWS CDK](https://img.shields.io/badge/AWS%20CDK-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
-![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)&nbsp;
 ![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
 ![EC2](https://img.shields.io/badge/EC2-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
-![API Gateway](https://img.shields.io/badge/API%20Gateway-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
 ![ELB](https://img.shields.io/badge/ELB-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
 ![EKS](https://img.shields.io/badge/EKS-232F3E?style=for-the-badge&logo=amazon-eks&logoColor=white)&nbsp;
 ![ECS](https://img.shields.io/badge/ECS-232F3E?style=for-the-badge&logo=amazon-ecs&logoColor=white)&nbsp;
-![Cloud Watch](https://img.shields.io/badge/Cloud%20Watch-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
-![IAM](https://img.shields.io/badge/IAM-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
