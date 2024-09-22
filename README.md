@@ -71,8 +71,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)&nbsp;
-![RDS](https://img.shields.io/badge/AWS%20RDS-527FFF?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
-![Aurora](https://img.shields.io/badge/Aurora-527FFF?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)&nbsp;
 
 ## Process tools and CI/CD:
@@ -88,7 +86,7 @@
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)&nbsp;
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)&nbsp;
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)&nbsp;
-![GCS](https://img.shields.io/badge/GCS-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
+![GCP](https://img.shields.io/badge/GCS-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)&nbsp;
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
@@ -96,14 +94,4 @@
 
 ## AWS:
 
-![AWS CDK](https://img.shields.io/badge/AWS%20CDK-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
-![CloudFormation](https://img.shields.io/badge/CloudFormation-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
-![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)&nbsp;
-![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
-![EC2](https://img.shields.io/badge/EC2-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
-![API Gateway](https://img.shields.io/badge/API%20Gateway-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
-![ELB](https://img.shields.io/badge/ELB-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
-![EKS](https://img.shields.io/badge/EKS-232F3E?style=for-the-badge&logo=amazon-eks&logoColor=white)&nbsp;
-![ECS](https://img.shields.io/badge/ECS-232F3E?style=for-the-badge&logo=amazon-ecs&logoColor=white)&nbsp;
-![Cloud Watch](https://img.shields.io/badge/Cloud%20Watch-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
-![IAM](https://img.shields.io/badge/IAM-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
+![AWS Certified Developer Associate](https://img.shields.io/badge/AWS%20Certified-Developer%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
